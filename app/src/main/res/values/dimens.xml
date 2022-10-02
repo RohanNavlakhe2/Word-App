@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Sizes-->
+    <dimen name="searchEdittextMargin">12dp</dimen>
+
+    <!--Fonts-->
+    <dimen name="word_info_heading">18sp</dimen>
+    <dimen name="word_info_content">16sp</dimen>
+</resources>
